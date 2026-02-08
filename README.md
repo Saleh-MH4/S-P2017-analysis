@@ -1,22 +1,22 @@
 S&P 500 (2017) Performance anlysis using-sql-powerbi
 Analyze S&P 500 (2017) Performance based on revenue profit and efficincy 
 
-📊 S&P500 2017 Dashboard
+ S&P500 2017 Dashboard
 
 
 
 Key Results:
 
-- 💰 Walmart generated the highest revenue among S&P 500 companies
-- 📊 Apple recorded the highest net profit across the S&P 500
-- ⚠️ Technology companies show the largest profit margins, indicating strong long-term return on investment potential
-- 🏭 Retail and manufacturing companies demonstrate higher asset turnover despite lower profit margins
+-  Walmart generated the highest revenue among S&P 500 companies
+-  Apple recorded the highest net profit across the S&P 500
+-  Technology companies show the largest profit margins, indicating strong long-term return on investment potential
+-  Retail and manufacturing companies demonstrate higher asset turnover despite lower profit margins
 
 
 🛠️ Tools Used
 SQL Server • Power BI • Excel
 
-📊 ##Dashboard Features
+ ##Dashboard Features
 
 Page 1:
 - Revenue and profit totals (in millions)
@@ -25,7 +25,8 @@ Page 1:
 - Key business insights
 
 
-<img width="1489" height="860" alt="S P500 page 1" src="https://github.com/user-attachments/assets/d435a946-122d-437b-a885-bc6a50552967" />
+<img width="1479" height="877" alt="S P500 page 1" src="https://github.com/user-attachments/assets/c1497ba3-84b4-445d-beb7-85006562b906" />
+
 
 
 ### Page 2: 
@@ -34,9 +35,15 @@ Page 1:
 - Return on Assets
 - Top companies analysis
 
-  <img width="1920" height="1080" alt="Screenshot (92)" src="https://github.com/user-attachments/assets/c7dec8de-2762-4b08-a84e-23d0af19bc9f" />
+ <img width="1470" height="868" alt="S P500 page 2" src="https://github.com/user-attachments/assets/7eb88333-a76e-4f3e-a5ac-bb1fbb199472" />
 
-  ## 🔍 SQL Analysis
+ GIF:
+
+ ![S P500 Power Bi GIF](https://github.com/user-attachments/assets/0377d3d7-bd96-443a-8a75-959938b04ace)
+
+
+
+  ##  SQL Analysis
 
 **6 Analytical Queries:**
 1. ranks by assets 
@@ -50,12 +57,12 @@ SQL Queries:
 
 
 
-## 💡 Key Findings
+##  Key Findings
 
 Revenue & Profitability:
-- Walmart: $485.9B revenue (Rank #1), employing 2.3M workers ✅
-- Apple: Highest profit at $45.7B with 21.2% margin ✅
-- Berkshire Hathaway: Largest asset base at $620.9B ✅
+- Walmart: $485.9B revenue (Rank #1), employing 2.3M workers 
+- Apple: Highest profit at $45.7B with 21.2% margin 
+- Berkshire Hathaway: Largest asset base at $620.9B 
 
 ---
 
@@ -63,7 +70,7 @@ Revenue & Profitability:
 
 ---
 
-## 📚 Skills Demonstrated
+##  Skills Demonstrated
 
 -  SQL queries & complex aggregations
 -  Power BI dashboard development
