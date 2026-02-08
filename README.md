@@ -13,7 +13,7 @@ Key Results:
 -  Retail and manufacturing companies demonstrate higher asset turnover despite lower profit margins
 
 
-🛠️ Tools Used
+ Tools Used
 SQL Server • Power BI • Excel
 
  ##Dashboard Features
